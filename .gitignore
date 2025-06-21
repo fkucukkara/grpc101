@@ -7,3 +7,5 @@
 /GrpcGreeter/obj
 /GrpcGreeterClient/bin/Debug/net9.0
 /GrpcGreeterClient/obj
+/GrpcGreeterServer/bin/Debug/net9.0
+/GrpcGreeterServer/obj

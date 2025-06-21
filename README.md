@@ -6,7 +6,7 @@ This repository contains a basic demonstration of gRPC communication between a c
 
 The solution consists of two projects:
 
-- **GrpcGreeter (Server)**: A gRPC server implementation
+- **GrpcGreeterServer**: A gRPC server implementation
 - **GrpcGreeterClient**: A console application that acts as a gRPC client
 
 ## Prerequisites
@@ -30,7 +30,7 @@ cd GrpcGreeter
 
 2. Start the server:
 ```bash
-cd GrpcGreeter
+cd GrpcGreeterServer
 dotnet run
 ```
 
